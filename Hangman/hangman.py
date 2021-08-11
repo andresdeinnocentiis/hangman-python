@@ -470,7 +470,7 @@ class Game:
                     end = True
             
 
-
+#Main function
 def main():
 
     Game().play()
